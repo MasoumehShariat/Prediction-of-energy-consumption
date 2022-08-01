@@ -1,5 +1,5 @@
 
-# Poste Italiane Trainning Camp 2022: DRIVING BUSINESS DECISIONS THROUGH AI  
+# Poste Italiane Training Camp 2022: DRIVING BUSINESS DECISIONS THROUGH AI  
 # CHALLENGE  2: PREDICTION 
 
 For baseline model multi output regression is used.
